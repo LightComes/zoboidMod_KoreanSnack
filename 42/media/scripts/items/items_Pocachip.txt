@@ -1,0 +1,33 @@
+module KoreanSnack
+{
+    imports
+    {
+        Base
+    }
+    
+    item Pocachip
+    {
+        /* 기본 표시 및 분류 설정 */
+        DisplayCategory = Food,
+        DisplayName = Pocachip,
+        ItemType = base:food,
+        Weight = 0.1,
+        Icon = Pocachip,
+
+        /* 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+        WorldStaticModel = "Base.WorldStaticModel_Paper",
+    }
+}
