@@ -1,9 +1,5 @@
 module KoreanSnack
 {
-    imports
-    {
-        Base
-    }
     
     item Pocachip
     {
