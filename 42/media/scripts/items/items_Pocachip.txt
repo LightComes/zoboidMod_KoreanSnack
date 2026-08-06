@@ -11,8 +11,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Pocachip,
         Tooltip = Tooltip_Pocachip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Pocachip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Pocachip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Pocachip_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Pocachip_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
