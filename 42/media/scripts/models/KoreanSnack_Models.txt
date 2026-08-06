@@ -1,0 +1,22 @@
+module KoreanSnack
+{
+    model Pocachip_Ground
+    {
+        mesh = Pocachip,
+        texture = Pocachip_Texture,
+        scale = 0.05,
+
+        offset = 0.0 0.0 0.0,
+        rotate = 0.0 -90.0 0.0,
+    }
+    model Pocachip_Hand
+    {
+        mesh = Pocachip,
+        texture = Pocachip_Texture,
+        scale = 0.05,
+
+        offset = 0.0 0.0 0.0,
+        rotate = 0.0 -90.0 0.0,
+    }
+
+}

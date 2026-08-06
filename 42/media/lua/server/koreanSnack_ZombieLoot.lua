@@ -1,25 +1,37 @@
 -- 1. 바닐라 루트 테이블을 불러옵니다.
 require "Items/SuburbsDistributions"
 
--- 2. 좀비 주머니에 포카칩을 넣는 함수를 정의합니다.
+local default_lootRate = 2.0
+local itmeModuleName = "KoreanSnack";
+
+local koreanSnack_ItemList = {
+    {
+        itmeName  = "Pocachip",
+        LootRate = 2.0,
+    }
+
+}
+
+local function getItems (items)
+
+end
+
+-- 2. 좀비 주머니에 과자를 넣는 함수를 정의합니다.
 local function AddPocachipToZombies()
-    if koreanSnack_ItemList == nil then 
-        print("koreanSnack_ItemList is nil");
-    else 
-        for index, item in ipairs(koreanSnack_ItemList) do
-            print(index .. "번째 아이템" .. item .. "입니다.");
-        end
+    -- table 선언
+    local maleItemTable = SuburbsDistributions.all.inventorymale.items;
+    local femaleItemTable = SuburbsDistributions.all.inventoryfemale.items;
+
+    for i, item in ipairs(koreanSnack_ItemList) do
+        print(itmeModuleName .. "." .. item.itmeName);
+        table.insert(maleItemTable, itmeModuleName .. "." .. item.itmeName);
+        table.insert(maleItemTable, item.LootRate);
+        table.insert(femaleItemTable, itmeModuleName .. "." .. item.itmeName);
+        table.insert(femaleItemTable, item.LootRate);
     end
 
 
-    
-    -- 하드코딩으로 남자 좀비에게 포카칩 추가 (확률 2.0)
-    table.insert(SuburbsDistributions.all.inventorymale.items, "KoreanSnack.Pocachip")
-    table.insert(SuburbsDistributions.all.inventorymale.items, 100.0)
 
-    -- 하드코딩으로 여자 좀비에게 포카칩 추가 (확률 2.0)
-    table.insert(SuburbsDistributions.all.inventoryfemale.items, "KoreanSnack.Pocachip")
-    table.insert(SuburbsDistributions.all.inventoryfemale.items, 100.0)
 end
 
 -- 3. 엔진이 바닐라 루트 테이블 세팅을 완료하는 시점에, 위에서 만든 함수를 실행하도록 훅(Hook)을 겁니다.

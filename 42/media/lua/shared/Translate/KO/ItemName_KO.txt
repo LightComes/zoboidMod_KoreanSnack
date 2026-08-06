@@ -1,3 +1,0 @@
-ItemName_KO = {
-	ItemName_Pocachip = "포카칩 오리지널",
-}

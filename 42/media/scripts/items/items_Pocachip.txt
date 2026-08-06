@@ -1,16 +1,20 @@
 module KoreanSnack
 {
-    
     item Pocachip
     {
-        /* 기본 표시 및 분류 설정 */
-        DisplayCategory = Food,
-        DisplayName = Pocachip,
+        /* 1. 기본 표시 및 분류 설정 */
         ItemType = base:food,
         Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
         Icon = Pocachip,
+        Tooltip = Tooltip_Pocachip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Pocachip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Pocachip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
 
-        /* 영양 및 스탯 변화량 */
+        /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
         Calories = 150,
         Carbohydrates = 15,
@@ -19,11 +23,1141 @@ module KoreanSnack
         UnhappyChange = -10,
         StressChange = -5,
 
-        /* 상태 및 보존 관련 설정 */
+        /* 4. 상태 및 보존 관련 설정 */
         Packaged = TRUE,
         BadInMicrowave = TRUE,
         DaysFresh = 365,
         DaysTotallyRotten = 730,
-        WorldStaticModel = "Base.WorldStaticModel_Paper",
+    }
+    item Kokoalcorn
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Kokoalcorn,
+        Tooltip = Tooltip_Kokoalcorn, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Kokoalcorn_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Kokoalcorn_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item HomerunBall
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = HomerunBall,
+        Tooltip = Tooltip_HomerunBall, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.HomerunBall_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.HomerunBall_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Saewookang
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Saewookang,
+        Tooltip = Tooltip_Saewookang, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Saewookang_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Saewookang_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Pringles
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Pringles,
+        Tooltip = Tooltip_Pringles, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Pringles_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Pringles_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Matdongsan
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Matdongsan,
+        Tooltip = Tooltip_Matdongsan, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Matdongsan_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Matdongsan_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item SquidPeanut
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = SquidPeanut,
+        Tooltip = Tooltip_SquidPeanut, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.SquidPeanut_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.SquidPeanut_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Custard
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Custard,
+        Tooltip = Tooltip_Custard, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Custard_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Custard_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Ace
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Ace,
+        Tooltip = Tooltip_Ace, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Ace_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Ace_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item HoneyButterChip
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = HoneyButterChip,
+        Tooltip = Tooltip_HoneyButterChip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.HoneyButterChip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.HoneyButterChip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item CCornChip
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = CCornChip,
+        Tooltip = Tooltip_CCornChip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.CCornChip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.CCornChip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Margaret
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Margaret,
+        Tooltip = Tooltip_Margaret, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Margaret_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Margaret_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item ChicChoc
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = ChicChoc,
+        Tooltip = Tooltip_ChicChoc, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.ChicChoc_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.ChicChoc_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item HoneyTwistSnack
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = HoneyTwistSnack,
+        Tooltip = Tooltip_HoneyTwistSnack, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.HoneyTwistSnack_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.HoneyTwistSnack_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Heim
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Heim,
+        Tooltip = Tooltip_Heim, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Heim_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Heim_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Cheetos
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Cheetos,
+        Tooltip = Tooltip_Cheetos, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Cheetos_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Cheetos_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item TurtleChips
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = TurtleChips,
+        Tooltip = Tooltip_TurtleChips, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.TurtleChips_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.TurtleChips_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Oreo
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Oreo,
+        Tooltip = Tooltip_Oreo, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Oreo_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Oreo_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Kancho
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Kancho,
+        Tooltip = Tooltip_Kancho, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Kancho_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Kancho_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Jollypong
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Jollypong,
+        Tooltip = Tooltip_Jollypong, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Jollypong_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Jollypong_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item DrYouBar
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = DrYouBar,
+        Tooltip = Tooltip_DrYouBar, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.DrYouBar_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.DrYouBar_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item CouqueDasse
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = CouqueDasse,
+        Tooltip = Tooltip_CouqueDasse, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.CouqueDasse_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.CouqueDasse_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item OhGamja
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = OhGamja,
+        Tooltip = Tooltip_OhGamja, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.OhGamja_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.OhGamja_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item SwingChip
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = SwingChip,
+        Tooltip = Tooltip_SwingChip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.SwingChip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.SwingChip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item LotteSand
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = LotteSand,
+        Tooltip = Tooltip_LotteSand, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.LotteSand_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.LotteSand_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item CaramelCorn
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = CaramelCorn,
+        Tooltip = Tooltip_CaramelCorn, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.CaramelCorn_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.CaramelCorn_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Chamssal
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Chamssal,
+        Tooltip = Tooltip_Chamssal, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Chamssal_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Chamssal_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item OnionRings
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = OnionRings,
+        Tooltip = Tooltip_OnionRings, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.OnionRings_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.OnionRings_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item ButterWaffle
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = ButterWaffle,
+        Tooltip = Tooltip_ButterWaffle, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.ButterWaffle_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.ButterWaffle_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item BadaCoconut
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = BadaCoconut,
+        Tooltip = Tooltip_BadaCoconut, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.BadaCoconut_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.BadaCoconut_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item MarineBoy
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = MarineBoy,
+        Tooltip = Tooltip_MarineBoy, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.MarineBoy_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.MarineBoy_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item ChokchokhanChocochip
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = ChokchokhanChocochip,
+        Tooltip = Tooltip_ChokchokhanChocochip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.ChokchokhanChocochip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.ChokchokhanChocochip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Kukhee
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Kukhee,
+        Tooltip = Tooltip_Kukhee, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Kukhee_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Kukhee_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item Yegam
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = Yegam,
+        Tooltip = Tooltip_Yegam, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.Yegam_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Yegam_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item SunChip
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = SunChip,
+        Tooltip = Tooltip_SunChip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.SunChip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.SunChip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item MoistChewyCake
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = MoistChewyCake,
+        Tooltip = Tooltip_MoistChewyCake, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.MoistChewyCake_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.MoistChewyCake_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item FreshBerry
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = FreshBerry,
+        Tooltip = Tooltip_FreshBerry, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.FreshBerry_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.FreshBerry_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item DrYouDiget
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = DrYouDiget,
+        Tooltip = Tooltip_DrYouDiget, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.DrYouDiget_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.DrYouDiget_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item ChocoPick
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = ChocoPick,
+        Tooltip = Tooltip_ChocoPick, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.ChocoPick_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.ChocoPick_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
+    }
+    item SumiChip
+    {
+        /* 1. 기본 표시 및 분류 설정 */
+        ItemType = base:food,
+        Weight = 0.1,
+        DisplayCategory = Food,
+        Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
+        
+        /* 2. 시각 요소 및 UI 설정 */
+        Icon = SumiChip,
+        Tooltip = Tooltip_SumiChip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.SumiChip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.SumiChip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+
+        /* 3. 영양 및 스탯 변화량 */
+        HungerChange = -15,
+        Calories = 150,
+        Carbohydrates = 15,
+        Lipids = 10,
+        Proteins = 1,
+        UnhappyChange = -10,
+        StressChange = -5,
+
+        /* 4. 상태 및 보존 관련 설정 */
+        Packaged = TRUE,
+        BadInMicrowave = TRUE,
+        DaysFresh = 365,
+        DaysTotallyRotten = 730,
     }
 }
