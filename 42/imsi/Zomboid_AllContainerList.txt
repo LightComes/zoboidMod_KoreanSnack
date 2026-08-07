@@ -1,0 +1,1055 @@
+AmbulanceDriverOutfit -- 구급차 운전기사 복장
+AmbulanceDriverTools -- 구급차 운전기사 장비/도구
+AnthropologyBooks -- 인류학 서적
+AnthropologyCounter -- 인류학 연구실 카운터
+AnthropologyDesk -- 인류학 연구실 책상
+AnthropologyDisplayClothing -- 인류학 전시 복장
+AnthropologyDisplayTools -- 인류학 전시 도구
+AnthropologyDisplayWeapons -- 인류학 전시 무기
+Antiques -- 골동품 상자 (오래된 잡동사니)
+ArenaKitchenCutlery -- 경기장/아레나 주방 식기류
+ArenaKitchenFreezer -- 경기장/아레나 주방 냉동고 (냉동식품)
+ArenaKitchenSauce -- 경기장/아레나 주방 소스류
+ArmyBunkerKitchen -- 군용 벙커 주방
+ArmyBunkerLockers -- 군용 벙커 사물함
+ArmyBunkerMedical -- 군용 벙커 의료품
+ArmyBunkerStorage -- 군용 벙커 창고
+ArmyHangarOutfit -- 군용 격납고 복장
+ArmyHangarMechanics -- 군용 격납고 정비 용품
+ArmyHangarTools -- 군용 격납고 공구
+ArmyStorageAmmunition -- 군용 창고 탄약
+ArmyStorageElectronics -- 군용 창고 전자기기
+ArmyStorageMedical -- 군용 창고 의료품
+ArmyStorageOutfit -- 군용 창고 복장
+ArmySurplusAmmoBoxes -- 군장점(서플러스) 탄약통
+ArmySurplusBackpacks -- 군장점 군장/배낭
+ArmySurplusCases -- 군장점 군용 케이스
+ArmySurplusCots -- 군장점 야전침대
+ArmySurplusFootwear -- 군장점 군화/신발
+ArmySurplusHeadwear -- 군장점 모자/방탄모
+ArmySurplusLiterature -- 군장점 군사 서적
+ArmySurplusMisc -- 군장점 잡동사니
+ArmySurplusOutfit -- 군장점 군복
+ArmySurplusSnacks -- 군장점 전투식량/간식
+ArmySurplusTools -- 군장점 군용 도구
+ArmySurplusWater -- 군장점 수통/식수
+ArtStoreLiterature -- 미술용품점 미술 서적
+ArtStoreOther -- 미술용품점 기타 용품
+ArtStorePaper -- 미술용품점 도화지/종이류
+ArtStorePen -- 미술용품점 펜/필기구
+ArtStorePottery -- 미술용품점 도자기 공예품
+ArtSupplies -- 일반 미술 용품
+BackstageClothingRack -- 무대 뒤(백스테이지) 의류 행거
+BackstageCounter -- 무대 뒤 카운터
+BackstageDresser -- 무대 뒤 화장대/서랍장
+BackstageLockers -- 무대 뒤 사물함
+BackstageFridge -- 무대 뒤 냉장고
+BackstageRigging -- 무대 뒤 무대 장치/조작 장비
+Bakery = BakeryMisc, -- 제과점 잡화 (할당)
+BakeryBread -- 제과점 빵류
+BakeryCake -- 제과점 케이크
+BakeryDoughnuts -- 제과점 도넛
+BakeryKitchenBaking -- 제과점 주방 베이킹 재료
+BakeryKitchenCutlery -- 제과점 주방 식기류
+BakeryKitchenFreezer -- 제과점 주방 냉동고
+BakeryKitchenFridge -- 제과점 주방 냉장고
+BakeryKitchenStorage -- 제과점 주방 보관함
+BakeryKitchenTrays -- 제과점 주방 쟁반
+BakeryMisc -- 제과점 잡화
+BakeryPie -- 제과점 파이
+BandMerchClothes -- 밴드 굿즈 의류
+BandMerchShelves -- 밴드 굿즈 선반
+BandPracticeClothing -- 밴드 연습실 의류
+BandPracticeFridge -- 밴드 연습실 냉장고
+BandPracticeInstruments -- 밴드 연습실 악기
+BankDeposit -- 은행 예금함/금고
+BarCounterGlasses -- 술집 카운터 유리잔
+BarCounterLiquor -- 술집 카운터 주류
+BarCounterMisc -- 술집 카운터 잡화/안주
+BarCounterWeapon -- 술집 카운터 밑 무기 (비상용)
+BarCrateDarts -- 술집 창고 다트 용품
+BarCratePool -- 술집 창고 당구 용품
+BarLaundry -- 술집 세탁물
+BarShelfLiquor -- 술집 벽면 주류 진열장
+BarnTools -- 헛간/농장 도구
+BaseballLockers -- 야구장 사물함
+BaseballStoreShelves -- 야구 용품점 선반
+BatFactoryBats -- 야구방망이 공장 방망이
+BathroomCabinet -- 욕실 수납장/거울장 (약품, 붕대 등)
+BathroomCounter -- 욕실 세면대 카운터
+BathroomCounterEmpty -- 욕실 세면대 (비어있음)
+BathroomCounterMotel -- 모텔 욕실 세면대
+BathroomCounterNoMeds -- 욕실 세면대 (의료품 없음)
+BathroomShelf -- 욕실 선반
+BBQCharcoal -- 숯불 바베큐 그릴
+BBQCharcoalRich -- 고급 숯불 바베큐 그릴
+BBQPropane -- 프로판 가스 바베큐 그릴
+BBQPropaneRich -- 고급 가스 바베큐 그릴
+BedroomDresser -- 침실 서랍장
+BedroomDresserChild -- 아이방 서랍장
+BedroomDresserClassy -- 고급 침실 서랍장
+BedroomDresserRedneck -- 촌구석 침실 서랍장
+BedroomSidetable -- 침실 협탁
+BedroomSidetableChild -- 아이방 협탁
+BedroomSidetableClassy -- 고급 침실 협탁
+BedroomSidetableRedneck -- 촌구석 침실 협탁
+BeerGardenCounter -- 비어가든(야외 술집) 카운터
+BinBar -- 술집 쓰레기통
+BinBathroom -- 욕실 쓰레기통
+BinCrepe -- 크레페 가게 쓰레기통
+BinDumpster -- 대형 덤프스터 쓰레기통
+BinFireStation -- 소방서 쓰레기통
+BinGeneric -- 일반 쓰레기통
+BinHospital -- 병원(의료용) 쓰레기통
+BinJays -- 제이스(Jays) 치킨집 쓰레기통
+BinSpiffos -- 스피포(Spiffo's) 버거 쓰레기통
+BookstoreBags -- 서점 가방
+BookstoreArt -- 서점 미술 서적
+BookstoreAutomotive -- 서점 자동차 정비 서적
+BookstoreBiography -- 서점 전기/위인전
+BookstoreBooks -- 일반 서적
+BookstoreBlueCollar -- 서점 블루칼라(목공/금속 등 기술) 서적
+BookstoreBusiness -- 서점 비즈니스 서적
+BookstoreChilds -- 서점 아동 도서
+BookstoreCinema -- 서점 영화 서적
+BookstoreComputer -- 서점 컴퓨터 서적
+BookstoreCooking -- 서점 요리책
+BookStoreCounter -- 서점 카운터
+BookstoreCrafts -- 서점 공예/수공예 서적
+BookstoreCrimeFiction -- 서점 범죄 소설
+BookstoreFantasySciFi -- 서점 판타지/SF 소설
+BookstoreFarming -- 서점 농사 서적
+BookstoreFashion -- 서점 패션 서적
+BookstoreGeneralReference -- 서점 일반 참고서
+BookstoreHistory -- 서점 역사 서적
+BookstoreHobbies -- 서점 취미 서적
+BookstoreHorror -- 서점 공포 소설
+BookstoreLegal -- 서점 법률 서적
+BookstoreLiteraryFiction -- 서점 문학 소설
+BookstoreMedical -- 서점 의료 서적
+BookstoreMilitaryHistory -- 서점 군사 역사 서적
+BookstoreMisc -- 서점 기타 잡화
+BookstoreMusic -- 서점 음악 서적
+BookstoreNewAge -- 서점 뉴에이지 도서
+BookstoreNonFiction -- 서점 비문학
+BookstoreOccult -- 서점 오컬트 도서
+BookstoreOutdoors -- 서점 아웃도어/생존 서적
+BookstorePersonal -- 서점 개인 기록물
+BookstorePhilosophy -- 서점 철학 서적
+BookstorePolitics -- 서점 정치 서적
+BookstoreReligion -- 서점 종교 서적
+BookstoreRomance -- 서점 로맨스 소설
+BookstoreSchoolTextbook -- 서점 교과서
+BookstoreScience -- 서점 과학 서적
+BookstoreSports -- 서점 스포츠 서적
+BookstoreStationery -- 서점 문구류
+BookstoreThriller -- 서점 스릴러 소설
+BookstoreTravel -- 서점 여행 가이드북
+BookstoreWestern -- 서점 서부극 소설
+BowlingAlleyCounters -- 볼링장 카운터
+BowlingAlleyLockers -- 볼링장 사물함
+BowlingAlleyPins -- 볼링장 볼링핀
+BowlingAlleyShoes -- 볼링장 볼링화 대여소
+BoxingLockers -- 복싱 체육관 사물함
+BoxingMemorabilia -- 복싱 기념품
+BoxingStorageGloves -- 복싱장 복싱장갑 보관함
+BoxingStorageHelmets -- 복싱장 헤드기어 보관함
+BreakRoomCounter -- 회사 탕비실 카운터
+BreakRoomShelves -- 회사 탕비실 선반
+BreweryBottles -- 양조장 병류
+BreweryCans -- 양조장 캔류
+BreweryEmptyBottles -- 양조장 빈 병
+BreweryEmptyCans -- 양조장 빈 캔
+BreweryHops -- 양조장 홉 (맥주 원료)
+BurgerKitchenButcher -- 햄버거집 주방 생고기(패티)
+BurgerKitchenCutlery -- 햄버거집 주방 식기류
+BurgerKitchenFreezer -- 햄버거집 주방 냉동고
+BurgerKitchenFridge -- 햄버거집 주방 냉장고
+BurgerKitchenSauce -- 햄버거집 주방 소스류
+BurglarTools -- 좀도둑 도구 (빠루 등)
+ButcherChicken -- 정육점 닭고기
+ButcherChops -- 정육점 돼지/양 갈비 (촙)
+ButcherFish -- 정육점 생선
+ButcherFreezer -- 정육점 냉동고
+ButcherGround -- 정육점 다진 고기
+ButcherLiterature -- 정육점 요리 서적
+ButcherSmoked -- 정육점 훈제육
+ButcherSnacks -- 정육점 육포/간식
+ButcherSpices -- 정육점 향신료
+ButcherTools -- 정육점 식칼/도구
+CabinetFactoryTools -- 캐비닛(가구) 공장 공구
+CafeCounterMix -- 카페 카운터 믹스/시럽
+CafeDiningFridge -- 카페 홀 냉장고
+CafeKitchenCoffee -- 카페 주방 커피 원두/가루
+CafeKitchenFridge -- 카페 주방 냉장고
+CafeKitchenMugs -- 카페 주방 머그잔
+CafeKitchenSupplies -- 카페 주방 잡용품
+CafeKitchenTea -- 카페 주방 찻잎
+CafeShelfBooks -- 카페 선반 책
+CafeteriaDrinks -- 구내식당/급식실 음료
+CafeteriaFruit -- 구내식당 과일
+CafeteriaKitchenFreezer -- 구내식당 주방 냉동고
+CafeteriaKitchenFridge -- 구내식당 주방 냉장고
+CafeteriaKitchenLaundry -- 구내식당 세탁물/행주
+CafeteriaSandwiches -- 구내식당 샌드위치
+CafeteriaSnacks -- 구내식당 간식
+CafeteriaTrays -- 구내식당 식판/쟁반
+CameraStoreDisplayCase -- 카메라 상점 진열장
+CameraStoreShelves -- 카메라 상점 선반
+CampingLockers -- 캠핑장/공원 사물함
+CampingStoreBackpacks -- 캠핑용품점 배낭
+CampingStoreBooks -- 캠핑용품점 서적
+CampingStoreCases -- 캠핑용품점 케이스
+CampingStoreClothes -- 캠핑용품점 의류
+CampingStoreGear -- 캠핑용품점 장비
+CampingStoreLegwear -- 캠핑용품점 바지/하의
+CampingStoreLighting -- 캠핑용품점 랜턴/조명
+CampingStoreSleepingBags -- 캠핑용품점 침낭
+CampingStoreTents -- 캠핑용품점 텐트
+CampingStoreTools -- 캠핑용품점 도구
+CandyStoreSnacks -- 사탕가게 간식/사탕
+CarSupplyBatteries -- 자동차 부품점 배터리
+CarSupplyGasCans -- 자동차 부품점 기름통
+CarSupplyGloves -- 자동차 부품점 작업용 장갑
+CarSupplyLiterature -- 자동차 부품점 정비 도서
+CarSupplyMagazines -- 자동차 부품점 자동차 잡지
+CarSupplyTools -- 자동차 부품점 공구
+CarBrakesModern1~3 -- 모던 차량 브레이크 부품
+CarBrakesNormal1~3 -- 일반 차량 브레이크 부품
+CarDealerDesk -- 자동차 딜러(영업소) 책상
+CarDealerFilingCabinet -- 자동차 딜러 서류철
+CarLightbars -- 경찰/구급차 경광등 부품
+CarMufflerModern1~3 -- 모던 차량 머플러
+CarMufflerNormal1~3 -- 일반 차량 머플러
+CarnivalPrizes -- 카니발(놀이공원) 경품/장난감
+CarpenterOutfit -- 목수 작업복
+CarpenterTools -- 목수 공구
+CarSuspensionModern1~3 -- 모던 차량 서스펜션
+CarSuspensionNormal1~3 -- 일반 차량 서스펜션
+CarTiresModern1~3 -- 모던 차량 타이어
+CarTiresNormal1~3 -- 일반 차량 타이어
+CarWindows1~3 -- 자동차 유리창 부품
+CatfishKitchenFreezer -- 캣피쉬(식당) 주방 냉동고
+CatfishKitchenFridge -- 캣피쉬 주방 냉장고
+ChangeroomCounters -- 수영장/탈의실 카운터
+ChefOutfit -- 주방장/요리사 복장
+ChefTools -- 주방장 도구
+Chemistry -- 화학 연구 용품
+ChineseKitchenBaking -- 중식당 주방 베이킹(밀가루 등)
+ChineseKitchenButcher -- 중식당 주방 육류
+ChineseKitchenCutlery -- 중식당 주방 식기류
+ChineseKitchenFreezer -- 중식당 주방 냉동고
+ChineseKitchenFridge -- 중식당 주방 냉장고
+ChineseKitchenSauce -- 중식당 주방 소스
+ClassroomDesk -- 교실 학생 책상
+ClassroomMisc -- 교실 잡화
+ClassroomShelves -- 교실 선반
+ClassroomSecondaryDesk -- 보조 교실 책상
+ClassroomSecondaryMisc -- 보조 교실 잡화
+ClassroomSecondaryShelves -- 보조 교실 선반
+ClosetInstruments -- 벽장/옷장 내 악기
+ClosetShelfGeneric -- 옷장 일반 선반
+ClosetSportsEquipment -- 옷장 내 스포츠 용품
+ClothingPoor -- 낮은 품질/낡은 의류
+ClothingRack -- 상점 의류 행거(진열대)
+ClothingStorageAllJackets -- 옷장/보관함 재킷류
+ClothingStorageAllShirts -- 옷장/보관함 셔츠류
+ClothingStorageFootwear -- 옷장/보관함 신발류
+ClothingStorageHeadwear -- 옷장/보관함 모자류
+ClothingStorageLegwear -- 옷장/보관함 바지류
+ClothingStorageWinter -- 옷장/보관함 겨울옷
+ClothingStoresBoots -- 의류 매장 부츠
+ClothingStoresDress -- 의류 매장 원피스/드레스
+ClothingStoresEyewear -- 의류 매장 안경류
+ClothingStoresGloves -- 의류 매장 장갑
+ClothingStoresGlovesLeather -- 의류 매장 가죽장갑
+ClothingStoresHeadwear -- 의류 매장 모자
+ClothingStoresHolsters -- 의류 매장 총기 홀스터
+ClothingStoresJackets -- 의류 매장 재킷
+ClothingStoresJacketsFormal -- 의류 매장 정장 재킷
+ClothingStoresJacketsLeather -- 의류 매장 가죽 재킷
+ClothingStoresJeans -- 의류 매장 청바지
+ClothingStoresJumpers -- 의류 매장 점퍼/스웨터
+ClothingStoresOvershirts -- 의류 매장 겉셔츠
+ClothingStoresPants -- 의류 매장 바지
+ClothingStoresPantsFormal -- 의류 매장 정장 바지
+ClothingStoresPantsLeather -- 의류 매장 가죽 바지
+ClothingStoresShirts -- 의류 매장 셔츠
+ClothingStoresShirtsFormal -- 의류 매장 정장 셔츠
+ClothingStoresShoes -- 의류 매장 신발
+ClothingStoresShoesLeather -- 의류 매장 가죽구두
+ClothingStoresSocks -- 의류 매장 양말
+ClothingStoresSport -- 의류 매장 스포츠웨어
+ClothingStoresSummer -- 의류 매장 여름옷
+ClothingStoresUnderwearWoman -- 의류 매장 여성 속옷
+ClothingStoresUnderwearMan -- 의류 매장 남성 속옷
+ClothingStoresWoman -- 여성 의류 매장 전용
+ComicStoreCounter -- 만화방/코믹스토어 카운터
+ComicStoreDisplayBooks -- 만화방 진열 책
+ComicStoreDisplayComics -- 만화방 진열 만화책
+ComicStoreDisplayDice -- 만화방 주사위(TRPG) 진열
+ComicStoreMagazines -- 만화방 잡지
+ComicStoreShelfGames -- 만화방 보드게임 선반
+ComicStoreShelfComics -- 만화방 만화책 선반
+ComicStoreShelfFantasy -- 만화방 판타지물 선반
+ComicStoreShelfSciFi -- 만화방 SF물 선반
+ConstructionWorkerOutfit -- 건설/공사장 인부 복장
+ConstructionWorkerTools -- 건설 인부 공구
+ControlRoomCounter -- 방송/기계 제어실 카운터
+CortmanOfficeBooks -- 코트맨(약국/클리닉) 사무실 책
+CortmanOfficeDesk -- 코트맨 사무실 책상
+CortmanOfficeSidetable -- 코트맨 사무실 협탁
+CrateAnimalFeed -- (나무 상자) 동물 사료
+CrateAntiqueStove -- (나무 상자) 골동품 난로
+CrateBakingSoda -- (나무 상자) 베이킹 소다 대량
+CrateBaseballs -- (나무 상자) 야구공 대량
+CrateBasketballs -- (나무 상자) 농구공
+CrateBatteries -- (나무 상자) 건전지/배터리
+CrateBeer -- (나무 상자) 맥주 박스
+CrateBibles -- (나무 상자) 성경책 대량
+CrateBlackBBQ -- (나무 상자) 검은 바베큐 그릴
+CrateBlacksmithing -- (나무 상자) 대장간/금속 가공 도구
+CrateBlueComfyChair~CrateWoodenStools -- (나무 상자) 각종 가구/의자류 부품 박스
+CrateBootsArmy -- (나무 상자) 군화
+CrateBootsArmyDesert -- (나무 상자) 사막용 군화
+CrateBooks -- (나무 상자) 서적 대량
+CrateBunsBurger / CrateBunsHotdog -- (나무 상자) 햄버거/핫도그 빵 대량
+CrateButter / CrateCannedFood 등 -- (나무 상자) 버터, 통조림 등 대량 식료품
+CrateCamping -- (나무 상자) 캠핑 용품
+CrateCandyPackage -- (나무 상자) 사탕/캔디 패키지
+CrateCarpentry -- (나무 상자) 목공 도구
+CrateCereal -- (나무 상자) 시리얼 박스
+CrateChips -- (나무 상자) 감자칩/과자류 박스 (과자 대량 파밍)
+CrateCigarettes -- (나무 상자) 담배 보루 박스
+CrateClothesRandom -- (나무 상자) 랜덤 의류
+CrateElectronics -- (나무 상자) 전자 부품/기기
+CrateFarming / CrateGardening -- (나무 상자) 농사/원예 용품
+CrateGenerator -- (나무 상자) 발전기 포장 박스
+CrateLiquor / CrateWine -- (나무 상자) 주류/와인 박스
+CrateMechanics / CrateMetalwork -- (나무 상자) 차량 정비 / 용접 도구 박스
+CratePopcorn -- (나무 상자) 팝콘 상자
+CrateRandomJunk -- (나무 상자) 랜덤 잡동사니
+CrateTools / CrateToolsOld -- (나무 상자) 일반 공구 / 낡은 공구
+CrateVHSTapes -- (나무 상자) 비디오 테이프 묶음
+CrateWaterBottle -- (나무 상자) 생수병 박스
+CrepeKitchenBaking -- 크레페 주방 베이킹 재료
+CrepeKitchenFridge -- 크레페 주방 냉장고
+CrepeKitchenSauce -- 크레페 주방 소스류
+CultistClothing -- 광신도/사이비 종교 복장
+CyberCafeDesk -- PC방/사이버카페 책상
+CyberCafeFilingCabinet -- PC방 서류 캐비닛
+DaycareCounter -- 어린이집/탁아소 카운터
+DaycareDesk -- 어린이집 책상
+DaycareShelves -- 어린이집 선반
+DeepFryKitchenFreezer -- 튀김 요리점 냉동고
+DeepFryKitchenFridge -- 튀김 요리점 냉장고
+DepartmentStoreJewelry -- 백화점 보석 매장
+DepartmentStoreWatches -- 백화점 시계 매장
+DerelictHouseCrime -- 폐가 (범죄/살인 흔적)
+DerelictHouseDrugs -- 폐가 (마약 거래 흔적)
+DerelictHouseJunk -- 폐가 (방치된 잡동사니)
+DerelictHouseParty -- 폐가 (파티 흔적 - 술병 등)
+DerelictHouseSquatter -- 폐가 (무단 거주자 흔적 - 식량 등)
+DerelictHouseStove -- 폐가 스토브/오븐
+DeskGeneric -- 일반 가정집 책상
+DinerBackRoomCounter -- 다이너(미국식 식당) 뒷방 카운터
+DinerKitchenFreezer -- 다이너 주방 냉동고
+DinerKitchenFridge -- 다이너 주방 냉장고
+DishCabinetGeneric -- 일반 가정집 식기장/찬장
+DishCabinetLiquor -- 주류 보관 식기장
+DishCabinetVIPLounge -- VIP 라운지 전용 식기장
+DoctorOutfit -- 의사 복장/가운
+DoctorTools -- 의사 장비 (청진기 등)
+DogFoodFactoryBags -- 개사료 공장 포대자루
+DogFoodFactoryBones -- 개사료 공장 뼈다귀
+DogFoodFactoryCans -- 개사료 공장 통조림 캔
+DogFoodFactoryEquipment -- 개사료 공장 장비
+DresserGeneric -- 일반 서랍장/옷장
+DryerEmpty -- 빨래 건조기 (비어있음)
+DrugLabGuns -- 마약 제조실 무기류
+DrugLabMoney -- 마약 제조실 돈뭉치
+DrugLabOutfit -- 마약 제조실 복장 (방호복 등)
+DrugLabSupplies -- 마약 제조실 화학 용품
+DrugShackDrugs -- 마약 오두막 마약류
+DrugShackMisc -- 마약 오두막 잡동사니
+DrugShackTools -- 마약 오두막 도구
+DrugShackWeapons -- 마약 오두막 무기류
+ElectronicStoreAppliances -- 전자제품 매장 소형 가전
+ElectronicStoreCases -- 전자제품 매장 케이스
+ElectronicStoreComputers -- 전자제품 매장 컴퓨터 용품
+ElectronicStoreHAMRadio -- 전자제품 매장 햄(HAM) 무전기
+ElectronicStoreLights -- 전자제품 매장 전구/조명
+ElectronicStoreMagazines -- 전자제품 매장 전자 잡지
+ElectronicStoreMisc -- 전자제품 매장 잡화
+ElectronicStoreMusic -- 전자제품 매장 음악/오디오
+ElectronicStorePhones -- 전자제품 매장 전화기/통신 기기
+EngineerTools -- 엔지니어용 전문 공구
+ElectricianOutfit -- 전기기사 복장
+ElectricianTools -- 전기기사 공구
+FactoryLockers -- 공장 근로자 사물함
+FarmerOutfit -- 농부 복장 (오버올 등)
+FarmerTools -- 농부 농기구
+FilingCabinetGeneric -- 일반 사무용 서류철/캐비닛
+FirearmWeapons -- 일반 총기류 스폰
+FirearmWeapons_Mid -- 중반 생존용 총기류
+FirearmWeapons_Late -- 후반 생존용 총기류
+FireDeptLockers -- 소방서 대원 사물함
+FiremanOutfit -- 소방관 방화복
+FiremanTools -- 소방관 장비 (소방도끼 등)
+FireStorageMechanics -- 소방서 창고 정비 도구
+FireStorageOutfit -- 소방서 창고 여분 복장
+FireStorageTools -- 소방서 창고 도구
+FishChipsKitchenButcher -- 피쉬앤칩스 식당 생선류
+FishChipsKitchenFreezer -- 피쉬앤칩스 식당 냉동고
+FishChipsKitchenFridge -- 피쉬앤칩스 식당 냉장고
+FishChipsKitchenSauce -- 피쉬앤칩스 식당 소스류
+FishermanOutfit -- 낚시꾼 복장
+FishermanTools -- 낚시꾼 도구
+FishingLockers -- 낚시터 사물함
+FishingStoreBait -- 낚시용품점 미끼류
+FishingStoreGear -- 낚시용품점 낚싯대/장비
+FitnessTrainer -- 헬스/피트니스 트레이너 소지품
+FoodGourmet -- 고급/미식 식재료
+ForestFireTools -- 산불 진압용 장비
+FossoilCounterCleaning -- 포스오일(주유소 상표) 카운터 청소용품
+FreezerDrugLab -- 마약 제조실 냉동고
+FreezerFarmStorage -- 농장 창고 냉동고 (고기 등)
+FreezerGarage -- 차고지 냉동고
+FreezerGeneric -- 일반 가정집 냉동고
+FreezerHoarder -- 수집강박증 환자의 꽉 찬 냉동고
+FreezerRich -- 부유한 집의 고급 냉동고
+FreezerTrailerPark -- 트레일러 파크의 저렴한 냉동고
+FreezerFrozenFood -- 냉동식품 전용 냉동고
+FreezerIceCream -- 아이스크림 전용 상업용 냉동고
+FridgeBeer -- 맥주 전용 냉장고
+FridgeBottles -- 병음료 전용 냉장고
+FridgeBreakRoom -- 회사 탕비실 냉장고
+FridgeDrugLab -- 마약 제조실 냉장고
+FridgeFarmStorage -- 농장 창고 냉장고
+FridgeGarage -- 차고지 낡은 냉장고
+FridgeGeneric -- 일반 가정집 냉장고
+FridgeHoarder -- 수집강박증 환자의 꽉 찬 냉장고
+FridgeMedical -- 병원 의료용 냉장고 (혈액, 백신 등)
+FridgeOffice -- 사무실 소형 냉장고
+FridgeRich -- 부유한 집의 꽉 찬 냉장고
+FridgeSnacks -- 일반 냉장고 내 간식/스낵 보관칸
+FridgeSoda -- 탄산음료 전용 냉장고
+FridgeTrailerPark -- 트레일러 파크 냉장고
+FridgeVIPLounge -- VIP 라운지 고급 냉장고
+FridgeWater -- 생수/물 전용 냉장고
+FryFactoryPotatoes -- 감자튀김 공장 감자 대량
+GarageCarpentry -- 가정집 차고 목공 도구
+GarageFirearms -- 차고에 숨겨둔 총기류
+GarageMechanics -- 차고 차량 정비 도구
+GarageMetalwork -- 차고 금속 가공/용접 도구
+GarageTools -- 차고 일반 공구함
+GardenerOutfit -- 정원사 복장
+GardenerTools -- 정원사 원예/제초 도구
+GardenStoreMisc -- 원예 상점 잡화
+GardenStoreTools -- 원예 상점 농기구/도구
+Gas2GoCounterCleaning -- 가스투고(주유소 상표) 카운터 청소용품
+GasStorageMechanics -- 주유소 뒷창고 정비 용품
+GasStorageCombo -- 주유소 뒷창고 혼합 창고
+GasStoreCounterCleaning -- 주유소 상점 카운터 청소용품
+GasStoreSpecial -- 주유소 상점 특수물품 (담배 등)
+GasStoreEmergency -- 주유소 상점 차량 구급함/비상용품
+GasStoreToiletries -- 주유소 상점 세면도구
+GeneratorRoom -- 발전기실 비품
+Gifts -- 포장된 선물
+GiftStoreFancy -- 기념품점/기프트샵 고급 선물
+GiftStoreCards -- 기념품점 엽서/카드
+GiftStoreToys -- 기념품점 장난감
+GigamartBakingMisc -- 기가마트(대형마트) 제과/베이킹 코너
+GigamartBathing -- 기가마트 목욕용품 코너
+GigamartBBQ -- 기가마트 바베큐 용품 코너
+GigamartBedding -- 기가마트 침구류 코너
+GigamartBottles -- 기가마트 병음료 코너
+GigamartBreakfast -- 기가마트 시리얼 등 아침식사 코너
+GigamartCandy -- 기가마트 사탕/초콜릿 전용 코너
+GigamartCannedFood -- 기가마트 통조림 코너
+GigamartCleaning -- 기가마트 청소용품 코너
+GigamartCosmetics -- 기가마트 화장품 코너
+GigamartCrisps -- 기가마트 감자칩/과자 코너 (과자 모드 핵심!)
+GigamartDryGoods -- 기가마트 파스타 등 건조식품 코너
+GigamartFarming -- 기가마트 원예/농사 코너
+GigamartHouseElectronics -- 기가마트 소형 가전 코너
+GigamartHousewares -- 기가마트 가정용품 코너
+GigamartLiterature -- 기가마트 도서/잡지 코너
+GigamartPaper -- 기가마트 휴지/종이류 코너
+GigamartPots -- 기가마트 냄비/프라이팬 코너
+GigamartSauce -- 기가마트 소스/조미료 코너
+GigamartSchool -- 기가마트 학용품 코너
+GigamartSpices -- 기가마트 향신료 코너
+GigamartLightbulb -- 기가마트 전구 코너
+GigamartToiletries -- 기가마트 세면/위생용품 코너
+GigamartTools -- 기가마트 공구 코너
+GigamartToys -- 기가마트 장난감 코너
+GolfLockers -- 골프장/컨트리클럽 사물함
+GolfFactoryTools -- 골프채 공장 도구
+GolfStoreBags -- 골프 상점 골프백
+GolfStoreAccessories -- 골프 상점 악세서리 (골프공 등)
+GolfStoreClothingRack -- 골프 상점 골프웨어 진열대
+GolfStoreLiterature -- 골프 상점 골프 잡지
+GolfStorage -- 골프 용품 보관함
+GrillAcessories -- 바베큐 그릴 악세서리
+GrillStoreBlackBBQ -- 그릴 매장 검정 바베큐
+GrillStoreRedBBQ -- 그릴 매장 빨간 바베큐
+GroceryStandFruits1~3 -- 식료품점 과일 가판대
+GroceryStandLettuce -- 식료품점 양상추 매대
+GroceryStandVegetables1~5 -- 식료품점 채소 가판대
+GroceryStorageCrate1~3 -- 식료품점 뒷창고 보관 상자
+GunStoreAccessories -- 총포상 총기 악세서리 (스코프 등)
+GunStoreAmmunition -- 총포상 탄약 진열대
+GunStoreBodyArmor -- 총포상 방탄복
+GunStoreCases -- 총포상 총기 케이스
+GunStoreCounter -- 총포상 카운터 서랍
+GunStoreDisplayCase -- 총포상 유리 진열장
+GunStoreKnives -- 총포상 사냥용 칼 진열대
+GunStoreLiterature -- 총포상 총기/수렵 서적
+GunStoreMagazineRack -- 총포상 잡지 가판대
+GunStoreMagsAmmo -- 총포상 탄창 및 탄약
+GunStoreGuns -- 총포상 일반 총기
+GunStorePistols -- 총포상 권총
+GunStoreRifles -- 총포상 라이플(소총)
+GunStoreShelf -- 총포상 일반 선반
+GunStoreShotguns -- 총포상 샷건(산탄총)
+GymLaundry -- 헬스장 세탁물 (땀에 젖은 옷 등)
+GymLockers -- 헬스장 회원 사물함
+GymMats -- 헬스장 요가/스트레칭 매트
+GymSweatbands -- 헬스장 땀받이/아대
+GymTowels -- 헬스장 수건
+GymWeights -- 헬스장 덤벨/역기
+Hiker -- 등산객/하이커 소지품
+HoarderKitchenFood -- 수집강박증 환자의 썩은 음식 가득한 주방
+Hobbies -- 취미 용품 (요요, 큐브 등)
+HolidayStuff -- 크리스마스 등 명절 장식품
+HomeCinemaFilm -- 가정용 홈시어터 비디오 필름
+HomeCinemaLiterature -- 가정용 영화 잡지/서적
+Homesteading -- 자급자족/농경 생존 용품
+HospitalLockers -- 병원 직원/간호사 사물함
+HospitalMagazineRack -- 병원 대기실 잡지 꽂이
+HospitalRoomCleaning -- 병실 청소 용품
+HospitalRoomCounter -- 병실 간호사 카운터
+HospitalRoomFridge -- 병실 환자용 소형 냉장고
+HospitalRoomShelves -- 병실 벽면 선반
+HospitalRoomWardrobe -- 병실 환자용 옷장
+HotdogStandDrinks -- 길거리 핫도그 가판대 음료
+HotdogStandToppings -- 길거리 핫도그 토핑 (머스타드 등)
+ImprovisedCrafts -- 생존자가 임시로 만든 공예품/도구
+ItalianKitchenBaking -- 이탈리아 식당 피자/파스타 도우 재료
+ItalianKitchenButcher -- 이탈리아 식당 고기류 (페퍼로니 등)
+ItalianKitchenFreezer -- 이탈리아 식당 냉동고
+ItalianKitchenFridge -- 이탈리아 식당 냉장고
+ItalianKitchenSauce -- 이탈리아 식당 소스 (마리나라 등)
+JackiesDesk -- 재키(특정 NPC)의 책상
+JanitorChemicals -- 청소부/건물 관리인 화학약품 (표백제 등)
+JanitorCleaning -- 청소부 대걸레/빗자루 등
+JanitorMisc -- 청소부 잡동사니
+JanitorTools -- 청소부 수리용 기본 공구
+JaysDiningCounter -- 제이스 치킨 식당 홀 카운터
+JaysKitchenBags -- 제이스 치킨 종이봉투/포장지
+JaysKitchenBaking -- 제이스 치킨 튀김가루/베이킹
+JaysKitchenButcher -- 제이스 치킨 생닭고기
+JaysKitchenFreezer -- 제이스 치킨 주방 냉동고
+JaysKitchenFridge -- 제이스 치킨 주방 냉장고
+JaysKitchenSauce -- 제이스 치킨 양념/소스
+JerkyFactoryCrate -- 육포 공장 육포 상자
+JerkyFactoryMeat -- 육포 공장 건조용 고기
+JerkyFactorySpices -- 육포 공장 향신료
+JerkyFactoryTools -- 육포 공장 가공 도구
+JewelerTools -- 보석 세공사/시계 수리공 도구
+JewelryGems -- 보석류 (루비, 사파이어 등)
+JewelryGold -- 금붙이/금반지
+JewelryNavelRings -- 배꼽 피어싱 등 특수 장신구
+JewelryOthers -- 기타 장신구
+JewelrySilver -- 은붙이/은반지
+JewelryWeddingRings -- 결혼 반지
+JewelryWrist -- 손목시계/팔찌
+JewelryStorageAll -- 보석 금고/보관함 종합
+JockeyLockers -- 경마장 기수 사물함
+JudgeMattHassCounter -- 맷 하스 판사(특정 건물)의 카운터
+JunkBin -- 쓰레기통 (잡동사니 전용)
+JunkHoard -- 폐가/은신처에 쌓인 거대한 쓰레기 더미
+KitchenBaking -- 일반 주방 찬장 (설탕, 밀가루 등 베이킹 류)
+KitchenBook -- 일반 주방 요리책
+KitchenBottles -- 일반 주방 빈 병/물병
+KitchenBreakfast -- 일반 주방 시리얼/오트밀 칸
+KitchenCannedFood -- 일반 주방 통조림 보관함
+KitchenDishes -- 일반 주방 접시/머그잔 칸
+KitchenDryFood -- 일반 주방 건조식품 (파스타 등)
+KitchenPots -- 일반 주방 냄비/프라이팬 수납장
+KitchenRandom -- **일반 가정집 주방 잡동사니 (가장 흔한 식료품 파밍 장소)**
+KnifeFactoryHandles -- 칼 공장 칼자루
+KnifeFactoryKitchenKnife -- 칼 공장 주방용 식칼
+KnifeFactoryKitchenKnifeBlades -- 칼 공장 식칼 날
+KnifeFactoryMeatCleaver -- 칼 공장 고기 써는 큰 칼(클리버)
+KnifeFactoryMeatCleaverBlades -- 칼 공장 클리버 날
+KnifeFactorySushiKnife -- 칼 공장 생선회용 칼(사시미)
+KnifeFactoryTools -- 칼 공장 연마/제조 공구
+KnifeStoreCutlery -- 식도/나이프 전문점 칼 진열대
+LaboratoryBooks -- 연구소/실험실 과학 서적
+LaboratoryGasStorage -- 연구소 가스(프로판 등) 저장소
+LaboratoryLockers -- 연구소 연구원 사물함
+LaundryCleaning -- 세탁실 세제/섬유유연제
+LaundryHospital -- 병원 세탁물 (피 묻은 옷 등)
+LaundryLoad1~8 -- 가정용/상업용 세탁기 안의 세탁물 묶음 1~8
+LibraryArt -- 도서관 예술 서적
+LibraryBiography -- 도서관 전기/위인전
+LibraryBooks -- 도서관 일반 도서
+LibraryBusiness -- 도서관 경제/비즈니스 서적
+LibraryChilds -- 도서관 아동 도서 코너
+LibraryCinema -- 도서관 영화/연극 서적
+LibraryComputer -- 도서관 컴퓨터/IT 서적
+LibraryCrimeFiction -- 도서관 범죄/추리 소설
+LibraryCounter -- 도서관 사서 카운터 (반납 도서 등)
+LibraryFantasySciFi -- 도서관 판타지/SF 소설
+LibraryFashion -- 도서관 패션 서적
+LibraryGeneralReference -- 도서관 사전/백과사전
+LibraryHistory -- 도서관 역사 서적
+LibraryHorror -- 도서관 공포 소설
+LibraryLegal -- 도서관 법률 서적
+LibraryLiteraryFiction -- 도서관 문학 소설
+LibraryMagazines -- 도서관 잡지 코너
+LibraryMedical -- 도서관 의학 서적
+LibraryMilitaryHistory -- 도서관 군사/전쟁 역사 서적
+LibraryMusic -- 도서관 음악 서적
+LibraryNewAge -- 도서관 뉴에이지/심령 서적
+LibraryNonFiction -- 도서관 비문학 서적
+LibraryOccult -- 도서관 오컬트/마법 서적
+LibraryOutdoors -- 도서관 생존/아웃도어 서적
+LibraryPhilosophy -- 도서관 철학 서적
+LibraryPolitics -- 도서관 정치 서적
+LibraryReligion -- 도서관 종교 서적
+LibraryRomance -- 도서관 로맨스 소설
+LibraryScience -- 도서관 과학 서적
+LibraryPersonal -- 도서관 개인 수필/일기류
+LibrarySports -- 도서관 스포츠 서적
+LibraryThriller -- 도서관 스릴러 소설
+LibraryTravel -- 도서관 여행 가이드북
+LibraryWestern -- 도서관 서부극 소설
+LingerieStoreAccessories -- 속옷/란제리 매장 악세서리
+LingerieStoreBras -- 속옷 매장 브래지어
+LingerieStoreOutfits -- 속옷 매장 가운/슬립
+LingerieStoreUnderwear -- 속옷 매장 하의 속옷
+LiquorStoreBags -- 주류 상점 종이봉투
+LiquorStoreBeer -- 주류 상점 일반 맥주
+LiquorStoreBeerFancy -- 주류 상점 수제/고급 맥주
+LiquorStoreBrandy -- 주류 상점 브랜디
+LiquorStoreGin -- 주류 상점 진(Gin)
+LiquorStoreMagazineRack -- 주류 상점 담배/잡지 가판대
+LiquorStoreMix -- 주류 상점 칵테일 믹서/탄산수
+LiquorStoreRum -- 주류 상점 럼주
+LiquorStoreScotch -- 주류 상점 스카치 위스키
+LiquorStoreTequila -- 주류 상점 테킬라
+LiquorStoreVodka -- 주류 상점 보드카
+LiquorStoreWhiskey -- 주류 상점 위스키 (버번 등)
+LiquorStoreWine -- 주류 상점 일반 와인
+LiquorStoreWineFancy -- 주류 상점 고급 와인
+LivingRoomShelf -- 거실 벽면 선반 (책, 비디오 등)
+LivingRoomShelfClassy -- 고급 저택 거실 선반
+LivingRoomShelfRedneck -- 촌구석 거실 선반
+LivingRoomShelfNoTapes -- 비디오 테이프가 없는 거실 선반
+LivingRoomSideTable -- 거실 소파 옆 협탁 (리모컨 등)
+LivingRoomSideTableClassy -- 고급 저택 거실 협탁
+LivingRoomSideTableRedneck -- 촌구석 거실 협탁
+LivingRoomSideTableNoRemote -- 리모컨이 없는 거실 협탁
+LivingRoomWardrobe -- 거실 외투 보관용 옷장
+Locker -- 학교/회사 일반 사물함
+LockerArmyBedroom -- 군용 숙소 개인 사물함
+LockerArmyBedroomHome -- 전역 군인의 가정집 사물함
+LockerClassy -- 고급/컨트리클럽 사물함
+LoggingFactoryTools -- 벌목/제재소 공장 공구
+MagazineRackAdult -- 가판대 성인 잡지
+MagazineRackBrochure -- 가판대 여행/홍보 책자
+MagazineRackCards -- 가판대 엽서/카드
+MagazineRackMaps -- 가판대 지역 지도
+MagazineRackMixed -- 가판대 혼합 잡지류
+MagazineRackNewspaper -- 가판대 신문
+MagazineRackPaperback -- 가판대 문고판(가벼운 소설)
+MannequinFactoryPaint -- 마네킹 공장 도색용 페인트
+MannequinFactoryTools -- 마네킹 공장 제작 도구
+MayorWestPointBooks -- 웨스트포인트 시장의 서적
+MayorWestPointDesk -- 웨스트포인트 시장의 책상
+MayorWestPointSafe -- 웨스트포인트 시장의 비밀 금고
+Meat -- 일반 육류 드랍 포인트
+MechanicOutfit -- 정비사 작업복(기름때 묻은 오버올)
+MechanicTools -- 정비사 휴대용 공구 (렌치 등)
+MechanicShelfBooks -- 정비소 선반 정비 매뉴얼
+MechanicShelfBrakes -- 정비소 선반 브레이크 부품
+MechanicShelfElectric -- 정비소 선반 차량용 전구/배터리
+MechanicShelfMisc -- 정비소 선반 윤활유/기타 잡화
+MechanicShelfMufflers -- 정비소 선반 차량 머플러
+MechanicShelfOutfit -- 정비소 선반 여분 작업복
+MechanicShelfSuspension -- 정비소 선반 서스펜션 부품
+MechanicShelfTools -- 정비소 선반 전문 정비 공구
+MechanicShelfWheels -- 정비소 선반 타이어 류
+MechanicSpecial -- 정비소 특수/희귀 물품
+MedicalCabinet -- 병원/가정집 의료용 수납장 (소독약 등)
+MedicalClinicDrugs -- 소형 클리닉 진통제/항우울제 등 약품
+MedicalClinicOutfit -- 클리닉 환자복/의료진 가운
+MedicalClinicTools -- 클리닉 핀셋/수술용 가위 등 도구
+MedicalOfficeCounter -- 병원 원무과/접수처 카운터
+MedicalOfficeDesk -- 병원 진료실 의사 책상
+MedicalOfficeBooks -- 병원 진료실 의학 서적
+MedicalStorageDrugs -- 병원 대형 창고 비축 약품
+MedicalStorageOutfit -- 병원 창고 비축 의료용 복장
+MedicalStorageTools -- 병원 창고 비축 의료용 장비
+MedievalBible -- 박물관/오래된 중세 성경책
+MedievalBooks -- 박물관 중세 서적
+MedievalAlchemy -- 박물관 중세 연금술/약초학 도구
+MedievalCooking -- 박물관 중세 냄비/가마솥
+MedievalTools -- 박물관 중세 시대 도구 (모루 등)
+MedievalWeaponsJapan -- 박물관 카타나 등 일본 무기 (카타나 파밍 1순위)
+MedievalWeapons -- 박물관 서양 중세 무기 (장검, 철퇴 등)
+MeleeWeapons -- 생존자 은신처 초반 근접 무기
+MeleeWeapons_Mid -- 생존자 은신처 중반 근접 무기 (마체테 등)
+MeleeWeapons_Late -- 생존자 은신처 후반 고급 근접 무기
+MetalShopTools -- 철물점/용접 상점 금속 가공 공구
+MetalWorkerOutfit -- 용접공/금속 가공업자 복장 (용접 마스크 등)
+MetalWorkerTools -- 용접공 전문 공구 (용접기, 토치 등)
+MexicanKitchenBaking -- 멕시칸 식당 타코/토르티야 반죽 재료
+MexicanKitchenButcher -- 멕시칸 식당 육류 재료
+MexicanKitchenFreezer -- 멕시칸 식당 냉동고
+MexicanKitchenFridge -- 멕시칸 식당 냉장고 (고수, 토마토 등)
+MexicanKitchenSauce -- 멕시칸 식당 핫소스/살사
+MorgueChemicals -- 영안실 시신 방부제/화학약품
+MorgueOutfit -- 영안실 부검의 복장
+MorgueTools -- 영안실 부검 도구
+MotelFridge -- 모텔 객실 내 소형 냉장고
+MotelLinens -- 모텔 침구류 보관함
+MotelSideTable -- 모텔 침대 옆 협탁
+MotelTowels -- 모텔 수건 보관함
+MovieRentalShelves -- 비디오 대여점 VHS 테이프 선반
+MusicStoreBass -- 악기점 베이스 기타
+MusicStoreBrass -- 악기점 트럼펫 등 금관 악기
+MusicStoreCases -- 악기점 악기 하드 케이스
+MusicStoreCDs -- 악기점 음악 CD 매대
+MusicStoreDrums -- 악기점 드럼 스틱/세트
+MusicStoreGuitar -- 악기점 통기타/일렉기타
+MusicStoreLiterature -- 악기점 악보/음악 서적
+MusicStoreOthers -- 악기점 마이크 등 기타 용품
+MusicStoreSpeaker -- 악기점 앰프/스피커
+MusicStoreStringed -- 악기점 바이올린 등 현악기
+NolansDesk -- 놀란(특정 NPC)의 책상
+NolansFilingCabinet -- 놀란의 서류 캐비닛
+NolansFridge -- 놀란의 개인 냉장고
+NurseOutfit -- 간호사 복장(스크럽 등)
+NurseTools -- 간호사 휴대용 의료 도구
+OfficeCounter -- 관공서/사무실 접수처 카운터
+OfficeDesk -- 일반 회사 사무실 개인 책상 (문구류, 간식 스폰)
+OfficeDeskHome -- 가정집 홈 오피스 책상
+OfficeDeskHomeClassy -- 고급 저택의 서재 책상
+OfficeDeskSecretary -- 사장실 밖 비서 책상
+OfficeDeskStressed -- 스트레스 받은 직원의 책상 (우울증 약, 술 등 스폰)
+OfficeDrawers -- 사무실 이동식 3단 서랍장
+OfficeShelfSupplies -- 사무용품(복사용지, 펜) 보관 선반
+OptometristDesk -- 안경점/검안사 진료 책상
+OptometristGlasses -- 안경점 안경 진열대
+OtherGeneric -- 기타 분류되지 않은 일반 서랍장
+OutdoorSupplyBoots -- 아웃도어(등산) 매장 등산화
+OutdoorSupplyClothes -- 아웃도어 매장 등산복/방한복
+OutdoorSupplyMagazines -- 아웃도어 매장 낚시/사냥/등산 잡지
+PawnShopCases -- 전당포 보석/귀중품 유리 진열장
+PawnShopGuns -- 전당포 전당 잡힌 일반 총기
+PawnShopGunsSpecial -- 전당포 희귀/특수 총기
+PawnShopKnives -- 전당포 칼/나이프 진열대
+PawnShopTools -- 전당포 전당 잡힌 고급 공구
+PetShopShelf -- 애완동물 용품점(펫샵) 개/고양이 사료 선반
+PharmacyCosmetics -- 약국 한편의 화장품/스킨케어 진열대
+Photographer -- 사진관/사진작가의 장비 가방 (카메라 등)
+PizzaKitchenBaking -- 피자집 주방 피자 도우용 밀가루
+PizzaKitchenButcher -- 피자집 주방 페퍼로니/고기 토핑
+PizzaKitchenCheese -- 피자집 주방 치즈 보관함
+PizzaKitchenFreezer -- 피자집 주방 냉동고
+PizzaKitchenFridge -- 피자집 주방 냉장고
+PizzaKitchenSauce -- 피자집 주방 토마토 소스
+PlankStashGold -- 뜯어낸 바닥판 밑 은닉처 (귀금속)
+PlankStashGun -- 바닥판 밑 은닉처 (권총류)
+PlankStashMagazine -- 바닥판 밑 은닉처 (성인/특수 잡지)
+PlankStashMisc -- 바닥판 밑 은닉처 (비상 식량/잡화)
+PlankStashMoney -- 바닥판 밑 은닉처 (현금 다발)
+PlumbingSupplies -- 철물점/창고 배관공 수리 용품 (렌치, 파이프 등)
+PoliceCaptainCabinet -- 경찰서장실 캐비닛
+PoliceCaptainDesk -- 경찰서장실 책상
+PoliceDesk -- 경찰서 일반 순경 책상 (도넛, 커피 등 스폰)
+PoliceEvidence -- 경찰서 증거품 보관실 (마약, 압수 무기 등)
+PoliceFileBox -- 경찰서 수사 기록 종이 박스
+PoliceFilingCabinet -- 경찰서 수사 기록 철제 캐비닛
+PoliceLaundry -- 경찰서 피 묻은 제복 등 세탁물
+PoliceOutfit -- 일반 경찰 제복/모자
+PoliceStateOutfit -- 주립 경찰(State Trooper) 제복
+PoliceStateTools -- 주립 경찰 특수 진압 장비
+PoliceStorageAmmunition -- 경찰 무기고 탄약 보관함
+PoliceStorageArmor -- 경찰 무기고 방탄조끼 보관함
+PoliceStorageGuns -- 경찰 무기고 샷건/권총 거치대
+PoliceStorageMechanics -- 경찰차 수리용 정비 도구
+PoliceStorageOutfit -- 경찰 창고 예비 제복
+PoliceTools -- 일반 경찰 진압봉/수갑 등 도구
+PoolLockers -- 수영장 탈의실 사물함
+PostOfficeBooks -- 우체국 포장된 책 소포
+PostOfficeBoxes -- 우체국 종이 박스 무더기
+PostOfficeMagazines -- 우체국 잡지 소포
+PostOfficeNewspapers -- 우체국 신문 무더기
+PostOfficeParcels -- 우체국 미개봉 소포/택배 (랜덤 잡화)
+PostOfficeSupplies -- 우체국 테이프/가위 등 포장 용품
+PotteryBooks -- 공방 도자기 공예 책
+PrisonCellRandom -- 교도소 감방 죄수들의 은닉품 (면도칼, 담배 등)
+PrisonCellRandomClassy -- 모범수/특수 감방 은닉품
+PrisonGuardLockers -- 교도관 휴게실 사물함
+PrisonArmoryShotguns -- 교도소 무기고 폭동 진압용 샷건
+PrisonStorageArmor -- 교도소 무기고 진압복/방검복
+PrisonRiotStorage -- 교도소 최루탄/진압방패 등 폭동 진압 장비
+PrisonLaundry -- 교도소 죄수복 세탁물
+ProduceStorageApples -- 농산물 창고 사과 박스
+ProduceStorageBellPeppers -- 농산물 창고 피망/파프리카 박스
+ProduceStorageBroccoli -- 농산물 창고 브로콜리 박스
+ProduceStorageCabbages -- 농산물 창고 양배추 박스
+ProduceStorageCarrots -- 농산물 창고 당근 박스
+ProduceStorageCauliflower -- 농산물 창고 콜리플라워 박스
+ProduceStorageCherry -- 농산물 창고 체리 박스
+ProduceStorageCorn -- 농산물 창고 옥수수 박스
+ProduceStorageEggplant -- 농산물 창고 가지 박스
+ProduceStorageEmptyBoxes -- 농산물 창고 빈 종이박스/플라스틱 상자
+ProduceStorageEquipment -- 농산물 창고 포장용 테이프/도구
+ProduceStorageGrapes -- 농산물 창고 포도 박스
+ProduceStorageGreenpeas -- 농산물 창고 완두콩 박스
+ProduceStorageKale -- 농산물 창고 케일 박스
+ProduceStorageLeeks -- 농산물 창고 대파 박스
+ProduceStorageLettuce -- 농산물 창고 양상추 박스
+ProduceStorageLooseFruit -- 농산물 창고 낱개 과일 바구니
+ProduceStorageLooseVeg -- 농산물 창고 낱개 채소 바구니
+ProduceStorageOnions -- 농산물 창고 양파 박스
+ProduceStoragePeaches -- 농산물 창고 복숭아 박스
+ProduceStoragePears -- 농산물 창고 배 박스
+ProduceStoragePotatoes -- 농산물 창고 감자 박스
+ProduceStorageRadishes -- 농산물 창고 무 박스
+ProduceStorageRottenFruit -- 농산물 창고 부패한 과일 버리는 곳
+ProduceStorageRottenVeg -- 농산물 창고 부패한 채소 버리는 곳
+ProduceStorageStrawberries -- 농산물 창고 딸기 박스
+ProduceStorageSweetPotatoes -- 농산물 창고 고구마 박스
+ProduceStorageTomatoes -- 농산물 창고 토마토 박스
+ProduceStorageWatermelons -- 농산물 창고 수박 박스
+RadioFactoryComponents -- 라디오/무전기 공장 전자 부품 (회로 등)
+RailYardSpikes -- 철도 정비소 대못/선로 부품
+RailYardTools -- 철도 정비소 대형 해머/공구
+RandomFiller -- 맵 생성 시 빈 공간을 채우는 랜덤 잡동사니 스폰
+RangerOutfit -- 국립공원 산림 경비대(Ranger) 제복
+RangerTools -- 산림 경비대 무전기/나이프 등 도구
+RecRoomShelf -- 휴게실/오락실 선반 (당구공, 다트 등)
+RestaurantKitchenFreezer -- 일반 대형 식당 주방 냉동고
+RestaurantKitchenFridge -- 일반 대형 식당 주방 냉장고
+RestaurantMenus -- 식당 입구 메뉴판 보관대
+SafehouseArmor -- 생존자 은신처 헬멧/방어구 (초반)
+SafehouseArmor_Mid -- 생존자 은신처 방어구 (중반)
+SafehouseArmor_Late -- 생존자 은신처 고급 방어구 (후반)
+SafehouseBin -- 생존자 은신처 쓰레기통
+SafehouseBin_Mid -- 생존자 은신처 쓰레기통 (중반)
+SafehouseBin_Late -- 생존자 은신처 쓰레기통 (후반)
+SafehouseBookShelf -- 생존자 은신처 스킬북/잡지 모음 책장
+SafehouseBooze -- 생존자 은신처 스트레스 해소용 주류
+SafehouseDryer -- 생존자 은신처 의류 건조기
+SafehouseFireplace -- 생존자 은신처 난로/벽난로 주변 (땔감 등)
+SafehouseFireplace_Late -- 생존자 은신처 난로 주변 (후반부 비축분)
+SafehouseFood -- 생존자 은신처 식량 비축 창고 (초반 통조림)
+SafehouseFood_Mid -- 생존자 은신처 식량 창고 (중반)
+SafehouseFood_Late -- 생존자 은신처 식량 창고 (후반 대량 비축)
+SafehouseFreezer -- 생존자 은신처 냉동고 (고기 등)
+SafehouseFreezer_Mid -- 생존자 은신처 냉동고 (중반)
+SafehouseFreezer_Late -- 생존자 은신처 냉동고 (후반)
+SafehouseFridge -- 생존자 은신처 냉장고 (신선 식품)
+SafehouseFridge_Mid -- 생존자 은신처 냉장고 (중반)
+SafehouseFridge_Late -- 생존자 은신처 냉장고 (후반)
+SafehouseLighting -- 생존자 은신처 랜턴/건전지/성냥 보관함
+SafehouseLighting_Late -- 생존자 은신처 랜턴류 (후반)
+SafehouseMedical -- 생존자 은신처 구급상자/붕대 (초반)
+SafehouseMedical_Mid -- 생존자 은신처 구급상자 (중반)
+SafehouseMedical_Late -- 생존자 은신처 고급 항생제 등 (후반)
+SafehouseStove -- 생존자 은신처 스토브/오븐
+SafehouseStove_Mid -- 생존자 은신처 스토브 (중반)
+SafehouseStove_Late -- 생존자 은신처 스토브 (후반)
+SafehouseTraps -- 생존자 은신처 쥐덫/새덫 등 함정 도구
+SafehouseWasher -- 생존자 은신처 세탁기
+SalonCounter -- 미용실 카운터 (가위, 빗 등)
+SalonMagazines -- 미용실 대기석 패션/가십 잡지
+SalonShelfHaircare -- 미용실 염색약/헤어스프레이 진열장
+SalonShelfTowels -- 미용실 수건 보관장
+SchoolGymSportsGear -- 학교 체육관 농구공/줄넘기 등 스포츠 용품
+SchoolLockers -- 학교 복도 학생 사물함 (책, 간식 등)
+SchoolLockersBad -- 불량학생의 사물함 (담배, 라이터, 칼 등 스폰)
+ScienceMisc -- 학교 과학실/연구소 잡동사니 (비커 등)
+SeafoodKitchenButcher -- 해산물 식당 생선/게/새우
+SeafoodKitchenFreezer -- 해산물 식당 냉동고
+SeafoodKitchenFridge -- 해산물 식당 냉장고
+SeafoodKitchenSauce -- 해산물 식당 타르타르/레몬 소스
+SeasonalWorkerLockers -- 농장/공장 일용직 노동자 사물함
+SecurityDesk -- 건물 경비원 책상 (손전등, 열쇠 등)
+SecurityStorage -- 경비원 무기/장비 보관함 (경찰봉 등)
+ServingTrayBiscuits -- 식당 배식 쟁반 (비스킷)
+ServingTrayBurgers -- 식당 배식 쟁반 (버거류)
+ServingTrayBurritos -- 식당 배식 쟁반 (부리토)
+ServingTrayChicken -- 식당 배식 쟁반 (구운 치킨)
+ServingTrayChickenFried -- 식당 배식 쟁반 (프라이드 치킨)
+ServingTrayChickenNuggets -- 식당 배식 쟁반 (치킨 너겟)
+ServingTrayChickenWings -- 식당 배식 쟁반 (치킨 윙)
+ServingTrayCornbread -- 식당 배식 쟁반 (옥수수빵)
+ServingTrayFish -- 식당 배식 쟁반 (구운 생선)
+ServingTrayFishFried -- 식당 배식 쟁반 (생선 튀김)
+ServingTrayFishFingers -- 식당 배식 쟁반 (피쉬 핑거)
+ServingTrayFries -- 식당 배식 쟁반 (감자튀김)
+ServingTrayGravy -- 식당 배식 쟁반 (그레이비 소스)
+ServingTrayHam -- 식당 배식 쟁반 (햄 요리)
+ServingTrayHotdogs -- 식당 배식 쟁반 (핫도그)
+ServingTrayLobster -- 식당 배식 쟁반 (랍스터)
+ServingTrayMaki -- 식당 배식 쟁반 (마키스시)
+ServingTrayMeatDumplings -- 식당 배식 쟁반 (고기 만두)
+ServingTrayMeatSteamBuns -- 식당 배식 쟁반 (고기 찐빵)
+ServingTrayMussels -- 식당 배식 쟁반 (홍합 요리)
+ServingTrayNoodleSoup -- 식당 배식 쟁반 (국수/우동)
+ServingTrayOmelettes -- 식당 배식 쟁반 (오믈렛)
+ServingTrayOnigiri -- 식당 배식 쟁반 (주먹밥)
+ServingTrayOnionRings -- 식당 배식 쟁반 (양파링 튀김)
+ServingTrayOysters -- 식당 배식 쟁반 (생굴)
+ServingTrayOystersFried -- 식당 배식 쟁반 (굴튀김)
+ServingTrayPancakes -- 식당 배식 쟁반 (팬케이크)
+ServingTrayPerogies -- 식당 배식 쟁반 (피에로기/동유럽식 만두)
+ServingTrayPotatoPancakes -- 식당 배식 쟁반 (감자전)
+ServingTrayPie -- 식당 배식 쟁반 (파이)
+ServingTrayPizza -- 식당 배식 쟁반 (피자 조각)
+ServingTrayPorkChops -- 식당 배식 쟁반 (돼지 갈비 구이)
+ServingTrayRefriedBeans -- 식당 배식 쟁반 (리프라이드 빈즈)
+ServingTraySalmon -- 식당 배식 쟁반 (연어 구이)
+ServingTraySausage -- 식당 배식 쟁반 (소시지)
+ServingTrayScrambledEggs -- 식당 배식 쟁반 (스크램블 에그)
+ServingTrayShrimp -- 식당 배식 쟁반 (삶은 새우)
+ServingTrayShrimpFried -- 식당 배식 쟁반 (새우 튀김)
+ServingTrayShrimpDumplings -- 식당 배식 쟁반 (새우 만두)
+ServingTraySpringRolls -- 식당 배식 쟁반 (스프링롤/춘권)
+ServingTraySteak -- 식당 배식 쟁반 (스테이크)
+ServingTraySushiEgg -- 식당 배식 쟁반 (계란 초밥)
+ServingTraySushiFish -- 식당 배식 쟁반 (생선 초밥)
+ServingTrayTaco -- 식당 배식 쟁반 (타코)
+ServingTrayTatoDots -- 식당 배식 쟁반 (테이터 토츠/감자볼)
+ServingTrayTofuFried -- 식당 배식 쟁반 (두부 튀김)
+ServingTrayWaffles -- 식당 배식 쟁반 (와플)
+SewingStoreTools -- 재봉/수예 용품점 가위/바늘 등 도구
+SewingStoreFabric -- 재봉 용품점 원단/실타래
+ShelfGeneric -- 집이나 건물의 흔한 빈 선반
+SmokingRoomCigars -- 호텔/라운지 흡연실 고급 시가
+SmokingRoomPipes -- 흡연실 파이프 담배/라이터
+SpiffosDesk -- 스피포(Spiffo's) 버거 매니저 책상
+SpiffosDiningCounter -- 스피포 버거 홀 주문 카운터
+SpiffosKitchenBags -- 스피포 주방 포장용 종이봉투
+SpiffosKitchenBaking -- 스피포 주방 햄버거 빵 등 베이킹 재료
+SpiffosKitchenButcher -- 스피포 주방 생고기 패티
+SpiffosKitchenSpecial -- 스피포 주방 비밀/특수 재료
+SpiffosKitchenCups -- 스피포 주방 콜라용 종이컵
+SpiffosKitchenFreezer -- 스피포 주방 대형 냉동고
+SpiffosKitchenFridge -- 스피포 주방 대형 냉장고
+SpiffosKitchenSauce -- 스피포 주방 케첩/머스타드 펌프
+SpiffosKitchenTrays -- 스피포 주방 배식/식사 쟁반
+SportStoreAccessories -- 스포츠 매장 호루라기/물병 등 악세서리
+SportStoreBadminton -- 스포츠 매장 배드민턴 라켓/셔틀콕
+SportStoreBaseball -- 스포츠 매장 야구 방망이/글러브
+SportStoreBoxing -- 스포츠 매장 복싱 글러브/헤드기어
+SportStoreFootball -- 스포츠 매장 럭비공/헬멧
+SportStoreGolf -- 스포츠 매장 골프채/골프공
+SportStoreIceHockey -- 스포츠 매장 하키 스틱/스케이트
+SportStorePadding -- 스포츠 매장 무릎/팔꿈치 보호대
+SportStoreTennis -- 스포츠 매장 테니스 라켓/공
+SportStoreSneakers -- 스포츠 매장 운동화
+SportStorageBats -- 스포츠 창고 야구방망이 더미
+SportStorageBalls -- 스포츠 창고 각종 공 더미
+SportStorageHelmets -- 스포츠 창고 헬멧/보호구 더미
+SportStoragePaddles -- 스포츠 창고 탁구/배드민턴 채 더미
+SportStorageRacquets -- 스포츠 창고 테니스 라켓 더미
+SportStorageSticks -- 스포츠 창고 하키/라크로스 스틱 더미
+SportStorageWeights -- 스포츠 창고 아령/역기 더미
+StoreCounterBags -- 일반 상점 카운터 비닐봉투
+StoreCounterBagsFancy -- 고급 상점 카운터 쇼핑백
+StoreCounterBagsPaper -- 일반 상점 카운터 종이봉투
+StoreCounterCleaning -- 상점 카운터 청소용 걸레/스프레이
+StoreCounterStrawsNapkins -- 상점 카운터 빨대/냅킨 디스펜서
+StoreCounterTobacco -- 편의점 카운터 뒤 담배 진열장
+StoreDisplayWatches -- 상점 유리 진열장 시계류
+StoreKitchenBaking -- 상점 부설 주방 베이킹 재료
+StoreKitchenButcher -- 상점 부설 주방 육류
+StoreKitchenCafe -- 상점 내 소형 카페 코너 (커피 등)
+StoreKitchenCleaning -- 상점 주방 청소 도구
+StoreKitchenCutlery -- 상점 주방 식기류
+StoreKitchenBags -- 상점 주방 쓰레기봉투
+StoreKitchenCups -- 상점 주방 일회용 컵
+StoreKitchenDishes -- 상점 주방 접시류
+StoreKitchenGlasses -- 상점 주방 유리잔
+StoreKitchenPotatoes -- 상점 주방 감자 보관함
+StoreKitchenPots -- 상점 주방 냄비/프라이팬
+StoreKitchenSauce -- 상점 주방 소스류
+StoreKitchenTrays -- 상점 주방 쟁반
+StoreShelfBBQ -- 상점 매대 바베큐 숯/가스/그릴 용품
+StoreShelfBeer -- 편의점/상점 맥주 매대
+StoreShelfCombo -- 상점 매대 혼합 잡화
+StoreShelfDrinks -- 편의점 음료수 진열대
+StoreShelfElectronics -- 상점 소형 전자기기/건전지 매대
+StoreShelfMechanics -- 상점 차량용 엔진오일/정비용품 매대
+StoreShelfMedical -- 상점 구급약/진통제 매대
+StoreShelfSnacks -- **상점/편의점 과자 매대 (과자 스폰 핵심!)**
+StoreShelfSpices -- 상점 조미료/향신료 매대
+StoreShelfWhiskey -- 상점 위스키/독주 진열대
+StoreShelfWine -- 상점 와인 진열대
+StoveClassy -- 고급 저택의 전기/가스 스토브
+StoveGeneric -- 일반 가정집 스토브
+StoveRedneck -- 촌구석의 낡은 스토브
+StoveSpiffos -- 스피포 식당의 상업용 대형 스토브
+StripClubClothingRack -- 스트립 클럽 의류 행거 (의상 등)
+StripClubCosmetic -- 스트립 클럽 분장실 화장품
+StripClubDressers -- 스트립 클럽 대기실 화장대
+StudioPropShelf -- 방송국/스튜디오 소품 선반
+SurvivalGear -- 생존주의자(프레퍼)의 서바이벌 장비
+SushiKitchenBaking -- 스시집 주방 튀김가루 등
+SushiKitchenButcher -- 스시집 주방 생선 횟감
+SushiKitchenCutlery -- 스시집 주방 젓가락/초밥용 식기
+SushiKitchenFreezer -- 스시집 주방 대형 냉동고
+SushiKitchenFridge -- 스시집 주방 식자재 냉장고
+SushiKitchenSauce -- 스시집 주방 간장/와사비
+SWATStorageAmmunition -- 경찰서 SWAT 팀 창고 특수 탄약
+SWATStorageArmor -- 경찰서 SWAT 팀 방탄/방폭 장비
+SWATStorageGuns -- 경찰서 SWAT 팀 소총/산탄총 등
+TestingLab -- 연구소 테스트실/실험 장비
+TheatreDrinks -- 영화관 매점 콜라/음료수
+TheatreKitchenFreezer -- 영화관 매점 냉동고
+TheatreLiterature -- 영화관 영화 포스터/잡지
+TheatreSnacks -- **영화관 매점 스낵 코너 (나초, 과자 등)**
+TheatrePopcorn -- 영화관 팝콘 기계
+TobaccoStoreAccessories -- 담배 가게 지포 라이터/재떨이
+TobaccoStoreChew -- 담배 가게 씹는 담배
+TobaccoStoreCigarettes -- 담배 가게 일반 담배 보루
+TobaccoStoreCigarillos -- 담배 가게 시가릴로(얇은 시가)
+TobaccoStoreCigars -- 담배 가게 굵은 시가
+TobaccoStorePipes -- 담배 가게 파이프 담배
+ToolCabinetFarming -- 공구함 농사용 삽/호미
+ToolCabinetMechanics -- 공구함 렌치/드라이버 등 정비 도구
+ToolFactoryBarStock -- 공구 공장 철근/금속 막대
+ToolFactoryHandles -- 공구 공장 나무 손잡이
+ToolFactoryIngots -- 공구 공장 쇳물/주괴
+ToolFactorySawBlades -- 공구 공장 전기톱 날
+ToolFactoryTools -- 공구 공장 조립/가공 도구
+ToolStoreAccessories -- 철물점/공구 상점 못, 나사, 테이프 등
+ToolStoreBooks -- 철물점 목공/건축 서적
+ToolStoreCarpentry -- 철물점 톱, 망치 등 목공 공구
+ToolStoreFarming -- 철물점 농기구 및 씨앗
+ToolStoreFootwear -- 철물점 작업화/안전화
+ToolStoreHandles -- 철물점 도구 수리용 나무 손잡이
+ToolStoreKeymaking -- 철물점 열쇠 복사기 및 자물쇠
+ToolStoreMetalwork -- 철물점 용접기, 토치 등 금속 가공 공구
+ToolStoreMisc -- 철물점 밧줄, 접착제 등 잡화
+ToolStoreOutfit -- 철물점 용접 마스크, 작업복
+ToolStorePaint -- 철물점 페인트 통, 붓
+ToolStoreTools -- 철물점 일반 수공구 진열대
+Trapper -- 사냥꾼/사냥 오두막의 덫, 가죽 등
+UniversityDesk_Anthropology~Therapy -- 대학교 각 전공별 교수/학생 책상 (인류학~치료학)
+UniversityFilingCabinet_Art~Therapy -- 대학교 각 전공별 학과 사무실 서류철 (미술~치료학)
+UniversityFridge -- 대학교 학과/동아리방 냉장고
+UniversityLibraryArt~Sports -- 대학교 중앙도서관 각 전공/분야별 서적 코너
+UniversitySideTable -- 대학교 기숙사/휴게실 협탁
+UniversityStorageAnthropology -- 대학교 인류학 실습 창고 (뼈 등)
+UniversityStorageScience -- 대학교 과학 실습 창고 (화학약품 등)
+UniversityWard

@@ -5,7 +5,7 @@ local koreanSnack_ItemList = {
     "CCornChip", "Margaret", "ChicChoc", "HoneyTwistSnack", "Heim",
     "Cheetos", "TurtleChips", "Oreo", "Kancho", "Jollypong",
     "DrYouBar", "CouqueDasse", "OhGamja", "SwingChip", "LotteSand",
-    "CaramelCorn", "Chamssal", "OnionRings", "ButterWaffle", "BadaCoconut",
+    "CaramelCorn", "Chamssal", "KOnionRings", "ButterWaffle", "BadaCoconut",
     "MarineBoy", "ChokchokhanChocochip", "Kukhee", "Yegam", "SunChip",
     "MoistChewyCake", "FreshBerry", "DrYouDiget", "ChocoPick", "SumiChip"
 }

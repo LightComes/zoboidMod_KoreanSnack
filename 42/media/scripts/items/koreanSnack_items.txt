@@ -40,8 +40,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Kokoalcorn,
         Tooltip = Tooltip_Kokoalcorn, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Kokoalcorn_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Kokoalcorn_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Kokoalcorn_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Kokoalcorn_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -69,8 +69,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = HomerunBall,
         Tooltip = Tooltip_HomerunBall, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.HomerunBall_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.HomerunBall_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.HomerunBall_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.HomerunBall_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -98,8 +98,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Saewookang,
         Tooltip = Tooltip_Saewookang, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Saewookang_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Saewookang_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Saewookang_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Saewookang_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -127,8 +127,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Pringles,
         Tooltip = Tooltip_Pringles, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Pringles_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Pringles_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Pringles_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Pringles_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -156,8 +156,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Matdongsan,
         Tooltip = Tooltip_Matdongsan, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Matdongsan_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Matdongsan_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Matdongsan_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Matdongsan_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -185,8 +185,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = SquidPeanut,
         Tooltip = Tooltip_SquidPeanut, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.SquidPeanut_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.SquidPeanut_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.SquidPeanut_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.SquidPeanut_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -214,8 +214,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Custard,
         Tooltip = Tooltip_Custard, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Custard_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Custard_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Custard_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Custard_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -243,8 +243,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Ace,
         Tooltip = Tooltip_Ace, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Ace_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Ace_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Ace_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Ace_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -272,8 +272,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = HoneyButterChip,
         Tooltip = Tooltip_HoneyButterChip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.HoneyButterChip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.HoneyButterChip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.HoneyButterChip_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.HoneyButterChip_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -301,8 +301,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = CCornChip,
         Tooltip = Tooltip_CCornChip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.CCornChip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.CCornChip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.CCornChip_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.CCornChip_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -330,8 +330,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Margaret,
         Tooltip = Tooltip_Margaret, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Margaret_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Margaret_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Margaret_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Margaret_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -359,8 +359,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = ChicChoc,
         Tooltip = Tooltip_ChicChoc, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.ChicChoc_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.ChicChoc_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.ChicChoc_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.ChicChoc_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -388,8 +388,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = HoneyTwistSnack,
         Tooltip = Tooltip_HoneyTwistSnack, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.HoneyTwistSnack_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.HoneyTwistSnack_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.HoneyTwistSnack_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.HoneyTwistSnack_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -417,8 +417,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Heim,
         Tooltip = Tooltip_Heim, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Heim_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Heim_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Heim_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Heim_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -446,8 +446,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Cheetos,
         Tooltip = Tooltip_Cheetos, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Cheetos_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Cheetos_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Cheetos_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Cheetos_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -475,8 +475,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = TurtleChips,
         Tooltip = Tooltip_TurtleChips, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.TurtleChips_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.TurtleChips_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.TurtleChips_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.TurtleChips_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -504,8 +504,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Oreo,
         Tooltip = Tooltip_Oreo, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Oreo_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Oreo_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Oreo_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Oreo_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -533,8 +533,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Kancho,
         Tooltip = Tooltip_Kancho, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Kancho_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Kancho_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Kancho_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Kancho_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -562,8 +562,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Jollypong,
         Tooltip = Tooltip_Jollypong, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Jollypong_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Jollypong_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Jollypong_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Jollypong_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -591,8 +591,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = DrYouBar,
         Tooltip = Tooltip_DrYouBar, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.DrYouBar_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.DrYouBar_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.DrYouBar_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.DrYouBar_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -620,8 +620,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = CouqueDasse,
         Tooltip = Tooltip_CouqueDasse, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.CouqueDasse_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.CouqueDasse_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.CouqueDasse_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.CouqueDasse_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -649,8 +649,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = OhGamja,
         Tooltip = Tooltip_OhGamja, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.OhGamja_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.OhGamja_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.OhGamja_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.OhGamja_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -678,8 +678,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = SwingChip,
         Tooltip = Tooltip_SwingChip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.SwingChip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.SwingChip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.SwingChip_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.SwingChip_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -707,8 +707,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = LotteSand,
         Tooltip = Tooltip_LotteSand, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.LotteSand_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.LotteSand_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.LotteSand_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.LotteSand_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -736,8 +736,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = CaramelCorn,
         Tooltip = Tooltip_CaramelCorn, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.CaramelCorn_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.CaramelCorn_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.CaramelCorn_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.CaramelCorn_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -765,8 +765,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Chamssal,
         Tooltip = Tooltip_Chamssal, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Chamssal_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Chamssal_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Chamssal_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Chamssal_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -783,7 +783,7 @@ module KoreanSnack
         DaysFresh = 365,
         DaysTotallyRotten = 730,
     }
-    item OnionRings
+    item KOnionRings
     {
         /* 1. 기본 표시 및 분류 설정 */
         ItemType = base:food,
@@ -792,10 +792,10 @@ module KoreanSnack
         Tags = base:snack;base:packaged, /* 42빌드 필터링용 태그 (임의 예시) */
         
         /* 2. 시각 요소 및 UI 설정 */
-        Icon = OnionRings,
-        Tooltip = Tooltip_OnionRings, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.OnionRings_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.OnionRings_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        Icon = KOnionRings,
+        Tooltip = Tooltip_KOnionRings, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
+        StaticModel = KoreanSnack.KOnionRings_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.KOnionRings_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -823,8 +823,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = ButterWaffle,
         Tooltip = Tooltip_ButterWaffle, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.ButterWaffle_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.ButterWaffle_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.ButterWaffle_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.ButterWaffle_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -852,8 +852,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = BadaCoconut,
         Tooltip = Tooltip_BadaCoconut, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.BadaCoconut_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.BadaCoconut_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.BadaCoconut_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.BadaCoconut_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -881,8 +881,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = MarineBoy,
         Tooltip = Tooltip_MarineBoy, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.MarineBoy_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.MarineBoy_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.MarineBoy_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.MarineBoy_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -910,8 +910,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = ChokchokhanChocochip,
         Tooltip = Tooltip_ChokchokhanChocochip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.ChokchokhanChocochip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.ChokchokhanChocochip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.ChokchokhanChocochip_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.ChokchokhanChocochip_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -939,8 +939,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Kukhee,
         Tooltip = Tooltip_Kukhee, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Kukhee_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Kukhee_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Kukhee_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Kukhee_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -968,8 +968,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = Yegam,
         Tooltip = Tooltip_Yegam, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.Yegam_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.Yegam_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.Yegam_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.Yegam_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -997,8 +997,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = SunChip,
         Tooltip = Tooltip_SunChip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.SunChip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.SunChip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.SunChip_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.SunChip_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -1026,8 +1026,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = MoistChewyCake,
         Tooltip = Tooltip_MoistChewyCake, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.MoistChewyCake_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.MoistChewyCake_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.MoistChewyCake_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.MoistChewyCake_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -1055,8 +1055,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = FreshBerry,
         Tooltip = Tooltip_FreshBerry, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.FreshBerry_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.FreshBerry_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.FreshBerry_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.FreshBerry_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -1084,8 +1084,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = DrYouDiget,
         Tooltip = Tooltip_DrYouDiget, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.DrYouDiget_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.DrYouDiget_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.DrYouDiget_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.DrYouDiget_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -1113,8 +1113,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = ChocoPick,
         Tooltip = Tooltip_ChocoPick, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.ChocoPick_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.ChocoPick_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.ChocoPick_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.ChocoPick_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,
@@ -1142,8 +1142,8 @@ module KoreanSnack
         /* 2. 시각 요소 및 UI 설정 */
         Icon = SumiChip,
         Tooltip = Tooltip_SumiChip, /* 마우스를 올렸을 때 나올 툴팁 번역 키값 */
-        StaticModel = KoreanSnack.SumiChip_Ground, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
-        WorldStaticModel = KoreanSnack.SumiChip_Hand, /* 바닥에 내려놓았을 때의 3D 모델 */
+        StaticModel = KoreanSnack.SumiChip_Hand, /* 캐릭터가 손에 들고 있을 때의 3D 모델 (임의 예시) */
+        WorldStaticModel = KoreanSnack.SumiChip_Ground, /* 바닥에 내려놓았을 때의 3D 모델 */
 
         /* 3. 영양 및 스탯 변화량 */
         HungerChange = -15,

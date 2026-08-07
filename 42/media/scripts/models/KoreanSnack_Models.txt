@@ -2,20 +2,242 @@ module KoreanSnack
 {
     model Pocachip_Ground
     {
-        mesh = Pocachip,
-        texture = Pocachip_Texture,
-        scale = 0.05,
-
-        offset = 0.0 0.0 0.0,
-        rotate = 0.0 -90.0 0.0,
+         mesh = BaiseBagged,
+         texture = x/Pocachip_Texture,
+         scale = 1,
     }
-    model Pocachip_Hand
+    model Kokoalcorn_Ground
     {
-        mesh = Pocachip,
-        texture = Pocachip_Texture,
-        scale = 0.05,
-
-        offset = 0.0 0.0 0.0,
-        rotate = 0.0 -90.0 0.0,
+         mesh = BaiseBagged,
+         texture = x/Kokoalcorn_Texture,
+         scale = 1,
+    }
+    model HomerunBall_Ground
+    {
+         mesh = BasicBox,
+         texture = x/HomerunBall_Texture,
+         scale = 1,
+    }
+    model Saewookang_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/Saewookang_Texture,
+         scale = 1,
+    }
+    model Pringles_Ground
+    {
+         mesh = Pringles,
+         texture = x/Pringles_Texture,
+         scale = 1,
+    }
+    model Matdongsan_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/Matdongsan_Texture,
+         scale = 1,
+    }
+    model SquidPeanut_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/SquidPeanut_Texture,
+         scale = 1,
+    }
+    model Custard_Ground
+    {
+         mesh = BasicBox,
+         texture = x/Custard_Texture,
+         scale = 1,
+    }
+    model Ace_Ground
+    {
+         mesh = AceBox,
+         texture = x/Ace_Texture,
+         scale = 1,
+    }
+    model HoneyButterChip_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/HoneyButterChip_Texture,
+         scale = 1,
+    }
+    model CCornChip_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/CCornChip_Texture,
+         scale = 1,
+    }
+    model Margaret_Ground
+    {
+         mesh = BasicBox,
+         texture = x/Margaret_Texture,
+         scale = 1,
+    }
+    model ChicChoc_Ground
+    {
+         mesh = BasicBox,
+         texture = x/ChicChoc_Texture,
+         scale = 1,
+    }
+    model HoneyTwistSnack_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/HoneyTwistSnack_Texture,
+         scale = 1,
+    }
+    model Heim_Ground
+    {
+         mesh = BasicBox,
+         texture = x/Heim_Texture,
+         scale = 1,
+    }
+    model Cheetos_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/Cheetos_Texture,
+         scale = 1,
+    }
+    model TurtleChips_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/TurtleChips_Texture,
+         scale = 1,
+    }
+    model Oreo_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/Oreo_Texture,
+         scale = 1,
+    }
+    model Kancho_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/Kancho_Texture,
+         scale = 1,
+    }
+    model Jollypong_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/Jollypong_Texture,
+         scale = 1,
+    }
+    model DrYouBar_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/DrYouBar_Texture,
+         scale = 1,
+    }
+    model CouqueDasse_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/CouqueDasse_Texture,
+         scale = 1,
+    }
+    model OhGamja_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/OhGamja_Texture,
+         scale = 1,
+    }
+    model SwingChip_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/SwingChip_Texture,
+         scale = 1,
+    }
+    model LotteSand_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/LotteSand_Texture,
+         scale = 1,
+    }
+    model CaramelCorn_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/CaramelCorn_Texture,
+         scale = 1,
+    }
+    model Chamssal_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/Chamssal_Texture,
+         scale = 1,
+    }
+    model KOnionRings_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/KOnionRings_Texture,
+         scale = 1,
+    }
+    model ButterWaffle_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/ButterWaffle_Texture,
+         scale = 1,
+    }
+    model BadaCoconut_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/BadaCoconut_Texture,
+         scale = 1,
+    }
+    model MarineBoy_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/MarineBoy_Texture,
+         scale = 1,
+    }
+    model ChokchokhanChocochip_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/ChokchokhanChocochip_Texture,
+         scale = 1,
+    }
+    model Kukhee_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/Kukhee_Texture,
+         scale = 1,
+    }
+    model Yegam_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/Yegam_Texture,
+         scale = 1,
+    }
+    model SunChip_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/SunChip_Texture,
+         scale = 1,
+    }
+    model MoistChewyCake_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/MoistChewyCake_Texture,
+         scale = 1,
+    }
+    model FreshBerry_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/FreshBerry_Texture,
+         scale = 1,
+    }
+    model DrYouDiget_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/DrYouDiget_Texture,
+         scale = 1,
+    }
+    model ChocoPick_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/ChocoPick_Texture,
+         scale = 1,
+    }
+    model SumiChip_Ground
+    {
+         mesh = BaiseBagged,
+         texture = x/SumiChip_Texture,
+         scale = 1,
     }
 }
